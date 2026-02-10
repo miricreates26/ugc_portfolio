@@ -1,0 +1,41 @@
+.section {
+  text-align: center;
+}
+
+.text {
+  max-width: 700px;
+  margin: 0 auto 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.text p {
+  margin: 0 auto;
+}
+
+.videoRow {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  padding-bottom: 1rem;
+  justify-content: flex-start;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Hide scrollbar but keep functionality */
+.videoRow::-webkit-scrollbar {
+  height: 4px;
+}
+
+.videoRow::-webkit-scrollbar-thumb {
+  background: var(--color-navbar);
+  border-radius: 2px;
+}
+
+@media (min-width: 1024px) {
+  .videoRow {
+    justify-content: center;
+    overflow-x: visible;
+  }
+}

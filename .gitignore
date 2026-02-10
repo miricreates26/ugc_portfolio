@@ -1,0 +1,6 @@
+node_modules
+dist
+
+# Local media assets — hosted on Cloudinary, not in Git
+src/assets/images/
+src/assets/videos/

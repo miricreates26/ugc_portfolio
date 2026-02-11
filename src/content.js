@@ -12,7 +12,7 @@ const CLOUD = 'https://res.cloudinary.com/dcznnlqyp/'; // <-- Replace with your 
 
 const media = {
   // --- Hero ---
-  heroBg: `${CLOUD}/image/upload/v1770700793/miri_background_irnytl.png`,
+  heroBg: `${CLOUD}/image/upload/v1770810645/miri_background_fsygwb.png`,
   heroCover: `${CLOUD}/image/upload//v1770700791/cover_picture_kgqi5w.avif`,
 
   // --- Portrait / Profile ---

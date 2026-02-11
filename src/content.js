@@ -8,7 +8,7 @@
 // Cloudinary URL format: https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/filename.jpg
 // For videos: https://res.cloudinary.com/YOUR_CLOUD_NAME/video/upload/v1234567890/filename.mp4
 
-const CLOUD = 'https://res.cloudinary.com/dcnfdgack'; // <-- Replace with your cloud name
+const CLOUD = 'https://res.cloudinary.com/dcznnlqyp/'; // <-- Replace with your cloud name
 
 const media = {
   // --- Hero ---
@@ -20,8 +20,8 @@ const media = {
   profileCircle: `${CLOUD}/image/upload/v1770700792/miri_circle_kcp9rk.jpg`,
 
 // --- Gallery ---
-  gallery1: `${CLOUD}/image/upload/v1770701612/miri_nap_bmgtz4.jpg`,
-  gallery2: `${CLOUD}/image/upload/v1770701612/miri_nap_bmgtz4.jpg`,
+  gallery1: `${CLOUD}/image/upload/v1770798704/main-sample.png`,
+  gallery2: `${CLOUD}/image/upload/v1770798704/main-sample.png`,
   gallery3: `${CLOUD}/image/upload/v1770701612/miri_nap_bmgtz4.jpg`,
   gallery4: `${CLOUD}/image/upload/v1770701612/miri_nap_bmgtz4.jpg`,
   gallery5: `${CLOUD}/image/upload/v1770701612/miri_nap_bmgtz4.jpg`,

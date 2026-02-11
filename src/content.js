@@ -76,7 +76,7 @@ const content = {
 
   // --- Introduction + Videos ---
   introduction: {
-    heading: 'I love my chériiiiiiiiii',
+    heading: 'Videos ',
     paragraphs: [
       'I create warm, scroll-stopping content for brands in the yoga, wellness, and travel space. From concept to delivery, every piece is crafted to feel native to your audience — genuine, beautiful, and effective.',
       'Whether it\'s a 15-second reel or a full photo series, I bring an editorial eye and a deep understanding of what resonates in the wellness community.',
